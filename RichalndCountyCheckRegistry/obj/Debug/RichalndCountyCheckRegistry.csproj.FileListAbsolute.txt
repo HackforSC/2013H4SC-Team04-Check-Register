@@ -1,0 +1,90 @@
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\RichalndCountyCheckRegistry.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\RichalndCountyCheckRegistry.pdb
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\Antlr3.Runtime.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.AspNet.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.Core.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OAuth.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OpenId.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\EntityFramework.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\Microsoft.Web.Infrastructure.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\System.Web.Optimization.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\System.Web.Providers.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\WebGrease.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\EntityFramework.xml
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.Core.xml
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OAuth.xml
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OpenId.xml
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.AspNet.xml
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\obj\Debug\RichalndCountyCheckRegistry.csprojResolveAssemblyReference.cache
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\obj\Debug\RichalndCountyCheckRegistry.dll
+c:\users\william\documents\visual studio 2012\Projects\SCHackathon2013\RichalndCountyCheckRegistry\obj\Debug\RichalndCountyCheckRegistry.pdb
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\obj\Debug\RichalndCountyCheckRegistry.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\RichalndCountyCheckRegistry.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\RichalndCountyCheckRegistry.pdb
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\Antlr3.Runtime.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\AspNet.ScriptManager.jQuery.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.AspNet.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.Core.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OAuth.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OpenId.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\EntityFramework.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\Microsoft.Web.Infrastructure.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\System.Web.Optimization.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\System.Web.Providers.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\WebGrease.dll
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\EntityFramework.xml
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.Core.xml
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OAuth.xml
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OpenId.xml
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.AspNet.xml
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\obj\Debug\RichalndCountyCheckRegistry.pdb
+C:\TFS\SCHackathon2013\RichalndCountyCheckRegistry\obj\Debug\RichalndCountyCheckRegistry.csprojResolveAssemblyReference.cache
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\RichalndCountyCheckRegistry.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\RichalndCountyCheckRegistry.pdb
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\Antlr3.Runtime.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\AspNet.ScriptManager.jQuery.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.AspNet.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.Core.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OAuth.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OpenId.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\EntityFramework.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\Microsoft.ScriptManager.WebForms.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\Microsoft.Web.Infrastructure.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\System.Web.Optimization.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\System.Web.Providers.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\WebGrease.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\EntityFramework.xml
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.Core.xml
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OAuth.xml
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OpenId.xml
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\bin\DotNetOpenAuth.AspNet.xml
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\obj\Debug\RichalndCountyCheckRegistry.csprojResolveAssemblyReference.cache
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\obj\Debug\RichalndCountyCheckRegistry.dll
+C:\TFS\Cordova\SCHackathon2013TFS\RichalndCountyCheckRegistry\obj\Debug\RichalndCountyCheckRegistry.pdb

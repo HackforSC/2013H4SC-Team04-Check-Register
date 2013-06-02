@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="CountyChecks">
+  <DataContextMoniker Name="/CountyChecksDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5b9606d8-b138-4ccc-86c5-db6cf76098b4" absoluteBounds="0.5, 0.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/CountyChecksDataContext/CountyCheck" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a8a749c0-4710-4767-8653-a27d302bef4a" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d26d3223-8bef-4f3e-9085-515c9cea0f13" absoluteBounds="2.75, 0.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/CountyChecksDataContext/CityCheck" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a322b1b8-8fa6-494c-81d7-0281fabbe39e" absoluteBounds="2.7649999999999997, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
